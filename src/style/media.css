@@ -280,6 +280,10 @@
   .menu_links_active {
     right: 0;
   }
+  .promo_logo_solter {
+    margin: 50% auto;
+    width: 50%;
+  }
   .hamburger {
     width: 50px;
     height: 20px;
@@ -298,7 +302,7 @@
     transition: 600ms all;
   }
   .hamburger_active span {
-    margin-bottom: -2px;
+    z-index: 888;
   }
   .hamburger_active span:first-child {
     transform: translateY(8px) rotate(-45deg);

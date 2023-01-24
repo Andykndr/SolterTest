@@ -433,7 +433,9 @@ footer {
   font-weight: 400;
   padding-top: 30px;
 }
-
+.footer_copyright_block {
+  margin-top: 75px;
+}
 .footer-phone {
   font-size: 22px;
   font-weight: 400;
