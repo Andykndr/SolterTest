@@ -58,7 +58,7 @@ header nav {
 }
 .promo {
   height: 850px;
-  background: url('img/logo_header/promoBg.png') no-repeat center / cover;
+  background: url('../img/logo_header/promoBg.png') no-repeat center / cover;
 }
 
 .promo_logo {
