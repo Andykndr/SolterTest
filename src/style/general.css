@@ -58,13 +58,13 @@ header nav {
 }
 .promo {
   height: 850px;
-  background: url('/img/logo_header/promoBg.png') no-repeat center / cover;
+  background: url('../img/logo_header/promoBg.png') no-repeat center / cover;
 }
 
 .promo_logo {
   margin-top: 230px;
   position: relative;
-  z-index: 500;
+  z-index: 3;
   width: 100%;
 }
 
